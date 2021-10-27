@@ -1,1 +1,6 @@
 
+<html> This is Main tag in html language, (This is a closing tag </html>)
+
+<head> This tag is not required tag, if you want to add <title>, <meta>, <link>, <style> <link> etc. You can use This Tag. (This is a closing tag </body>)
+
+<body> The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. you are write in body tag, its showing in your webpage. (This is a closing tag </body>) 
