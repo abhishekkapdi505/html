@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>OL</title>
+</head>
+
+<body>
+
+<h2>Hotel Menu</h2>
+
+<dl>
+<ol type="1">
+<li>Tea</li>
+<li>Black Tea</li>
+<li>Green Tea</li>
+</ol>
+</dl>
+
+</body>
+</html>
