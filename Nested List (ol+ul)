@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Nested List(ul+ol)</title>
+</head>
+
+<body>
+
+<h2>Hotel Menu</h2>
+
+<dl>
+<ul>
+<li>Tea</li>
+<ol>
+<li>Black Tea</li>
+<li>Green Tea</li>
+</ol>
+<li>Coffee</li>
+<ol>
+<li>Black Coffee</li>
+<li>Cold Coffee</li>
+</ul>
+</dl>
+
+</body>
+</html>
