@@ -1,0 +1,21 @@
+<html>
+<body>
+
+<table border="2">
+<tr>
+<td>Name</td>
+<td>Class</td>
+<td>Roll No.</td>
+<td>Marks</td>
+</tr>
+
+<tr>
+<td>Abhishek</td>
+<td>BCA</td>
+<td>30</td>
+<td>83</td>
+</tr>
+
+</table>
+</body>
+</html>
