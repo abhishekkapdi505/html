@@ -1,0 +1,25 @@
+<html>
+<head>
+</head>
+<frameset cols="10%,80%,10%">
+<frame src="pink.html" frameborder="0">
+<frameset rows="15%,15%,40%,15%,15%,">
+<frame src="pink.html" frameborder="0">
+<frame src="blue.html" frameborder="0">
+<frameset cols="10%,10%,10%,10%,10%,10%,10%,*,10%">
+<frame src="blue.html" frameborder="0">
+<frame src="yellow.html" frameborder="0">
+<frame src="green.html" frameborder="0">
+<frame src="red.html" frameborder="0">
+<frame src="yellow.html" frameborder="0">
+<frame src="green.html" frameborder="0">
+<frame src="red.html" frameborder="0">
+<frame src="yellow.html" frameborder="0">
+<frame src="blue.html" frameborder="0">
+</frameset>
+<frame src="blue.html" frameborder="0">
+<frame src="pink.html" frameborder="0">
+</frameset>
+<frame src="pink.html" frameborder="0">
+</frameset>
+</html>
