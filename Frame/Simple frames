@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> frame</title>
+</head>
+<frameset rows="30%,40%,30%">
+<frame name="frame2" src="pink.html">
+<frame name="frame3" src="green.html">
+<frame name="frame4" src="yellow.html">
+
+</frameset>
+</html>
+
+
+
+
+---------->>>>>>>>>>>>Create New HTML File<<<<<<<<<<<-----------------------
+
+//For Pink Color//
+
+<html>
+ <body bgcolor="pink">
+ </body>
+</html>
+
+**Save This File in same folder & Enter Name like (pink.html)
+
+//For Green Color//
+
+<html>
+ <body bgcolor="green">
+ </body>
+</html>
+
+**Save This File in same folder & Enter Name like (green.html
+
+//For Yellow Color//
+
+<html>
+ <body bgcolor="yellow">
+ </body>
+</html>
+
+**Save This File in same folder & Enter Name like (yellow.html)
